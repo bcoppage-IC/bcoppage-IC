@@ -5,13 +5,13 @@ My name is Ben Coppage
 **My goal this cycle is to collect, clean, and use the data that we need in order to create a solution for the client.**
 
 **Reach me @**
-[My gmail account](benlevi.coppage@gmail.com)
+[my gmail account](benlevi.coppage@gmail.com)
 
 **And @**
 
-[My IC-Stars account](bcoppage@icstars.org)
+[my IC-Stars account](bcoppage@icstars.org)
 
 **And @**
-[My linkedin](linkedin.com/in/bencoppage)
+[my linkedin](linkedin.com/in/bencoppage)
 
 
