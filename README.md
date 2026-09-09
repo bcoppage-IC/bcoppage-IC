@@ -1,6 +1,6 @@
 <div>
   <img src="https://github.com/bcoppage-IC.png" width="150" />
-  <hi></hi>Hi, my name is Ben Coppage</h1>
+  <hi>Hi, my name is Ben Coppage</h1>
 </div>
 
 **I am a cycle 60 intern at IC-Stars. Working on a Medline project.**
