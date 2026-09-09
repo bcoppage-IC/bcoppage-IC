@@ -1,4 +1,7 @@
-My name is Ben Coppage
+<div>
+  <img src="https://github.com/bcoppage-IC.png" width="150" />
+  #My name is Ben Coppage
+</div>
 
 **I am a cycle 60 intern at IC-Stars. Working on a Medline project.**
 
@@ -13,5 +16,6 @@ My name is Ben Coppage
 
 **And @**
 [my linkedin](https://www.linkedin.com/in/bencoppage)
+
 
 
