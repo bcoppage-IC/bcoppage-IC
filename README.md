@@ -3,7 +3,7 @@
   <h1> Hi, my name is Ben Coppage. </h1>
 </div>
 
-**I am a cycle 60 intern at IC-Stars. Working on a Medline project.**
+**I am a cycle 60 intern at IC-Stars, working on an operations project for one of the largest medical supply manufacturers and distributors in the U.S.**
 
 **My goal this cycle is to collect, clean, and use the data that we need in order to create a solution for the client.**
 
