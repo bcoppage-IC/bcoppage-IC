@@ -18,4 +18,7 @@ Python · Excel · HTML/CSS · Git/GitHub · Docker · Salesforce
 ## Open to
 Consulting, client success, and analyst roles in Chicago, remote, or abroad.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/bencoppage)
+## Contact
+- [Gmail](mailto:benlevi.coppage@gmail.com)
+- [i.c.stars email](mailto:bcoppage@icstars.org)
+- [LinkedIn](https://www.linkedin.com/in/bencoppage)
