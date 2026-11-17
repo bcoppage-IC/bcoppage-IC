@@ -1,32 +1,21 @@
 <div>
   <img src="https://github.com/bcoppage-IC.png" width="150" />
-  <h1> Hi, my name is Ben Coppage. </h1>
+  <h1>Hi, I'm Ben Coppage</h1>
 </div>
 
-**I am a cycle 60 intern at IC-Stars, working on an operations project for one of the largest medical supply manufacturers and distributors in the U.S.**
+I work in data analysis and consulting in Chicago. I turn messy data into clear answers that people can act on.
 
-**My goal this cycle is to collect, clean, and use the data that we need in order to create a solution for the client.**
+**Now:** Cycle 60 intern at i.c.stars, on an operations project for a large U.S. medical supply company. Finishing a BSBA in Management Information Systems with an Economics minor at SNHU.
 
-<details>
-  <summary>My home work station specs </summary>
-    +ThinkPad_P14s AMD
-    +Ryzen 7 PRO 8840H with Radeon 780M
-    +64 GB 
-    +1 TB
-    +OLED Panel
-    +1 24-inch monitor
-    +1 27-inch monitor  
-</details>
+## Featured work
+- **Who Arrived, and Where Did They Live?** How the foreign-born population changed compared with housing pressure across Chicago's 77 community areas.
+  [Live dashboard](https://bcoppage-ic.github.io/chicago-immigrant-housing/) · [Repo](https://github.com/bcoppage-IC/chicago-immigrant-housing)
+- **Portfolio:** [bcoppage-ic.github.io/Portfolio](https://bcoppage-ic.github.io/Portfolio)
 
-**Reach me @**
-[my gmail account](mailto:benlevi.coppage@gmail.com)
+## Tools
+Python · Excel · HTML/CSS · Git/GitHub · Docker · Salesforce
 
-**And @**
+## Open to
+Consulting, client success, and analyst roles in Chicago, remote, or abroad.
 
-[my IC-Stars account](mailto:bcoppage@icstars.org)
-
-**And @**
-[my linkedin](https://www.linkedin.com/in/bencoppage)
-
-
-
+**Contact:** [LinkedIn](https://www.linkedin.com/in/bencoppage)
